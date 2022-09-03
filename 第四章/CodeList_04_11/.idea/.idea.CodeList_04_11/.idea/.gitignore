@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/contentModel.xml
+/modules.xml
+/projectSettingsUpdater.xml
+/.idea.CodeList_04_11.iml
+# Datasource local storage ignored files
+/../../../../../../../../../../../:\Users\Administrator\Documents\Git_Book\YuSongMOMO\第四章\CodeList_04_11\.idea\.idea.CodeList_04_11\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
